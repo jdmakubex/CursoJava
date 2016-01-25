@@ -1,0 +1,20 @@
+/*
+CONSIDERACIONES PARA CORRER PROGRAMAS EN JAVA
+
+Instalar el JDK (java developer kid)
+
+Primero se crea el archivo de código fuente con extensión .java
+por ejemplo:
+
+HolaMundo.Java
+
+luego ... nos ubicamos en consola, en la ruta donde está el archivo de código fuente y ejecutamos el comando para COMPILAR javac, como se muestra  continuacion:
+
+javac HolaMundo.java
+
+depues EJECUTAMOS el binario que creó la compilación con el comando java como se ejemplifica a continuación:
+
+java HolaMundo
+
+
+ */
