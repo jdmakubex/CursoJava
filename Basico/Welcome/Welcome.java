@@ -1,3 +1,5 @@
+// Ejemplo del libro de java
+
 public class Welcome
 {
 	public static void main (String [] args)
