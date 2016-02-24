@@ -1,0 +1,8 @@
+Java es sensible al uso de mayusculas y minusculas
+una variable siempre debe comenzar con una letra (incluyendo $ y _) y nunca con un numero
+las letras posteriores puede ser cualquier letra
+por buena practica debemos utilizar la tecnica CamelCase, el nombre proviene de simular las jorobas de un camello :D
+
+variables, objetos y metodos ---> lower Camel Case
+clases ---> Upper camel case
+las constantes deben ir en mayusculas y separadas por guion bajo
